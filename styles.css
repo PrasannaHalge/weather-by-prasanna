@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+#bgImage {
+    background-image:url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;    
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-by-prasanna/static/css/main.db7a38d3.css",
+    "main.js": "/weather-by-prasanna/static/js/main.57eeae0c.js",
+    "index.html": "/weather-by-prasanna/index.html",
+    "main.db7a38d3.css.map": "/weather-by-prasanna/static/css/main.db7a38d3.css.map",
+    "main.57eeae0c.js.map": "/weather-by-prasanna/static/js/main.57eeae0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7a38d3.css",
+    "static/js/main.57eeae0c.js"
+  ]
+}
